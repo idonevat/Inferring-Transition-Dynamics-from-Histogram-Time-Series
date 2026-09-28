@@ -1,0 +1,14 @@
+{
+  "paper_section_structure": [
+    "5.1a population-size sensitivity",
+    "5.1b observation-length sensitivity",
+    "5.1c observation-interval sensitivity",
+    "5.1d heterogeneous-mechanism robustness",
+    "5.2 equilibrium fluctuations",
+    "5.3 near-equilibrium information transition",
+    "5.4 scalability",
+    "5.5 transition-topology robustness"
+  ],
+  "shared_code": "common/",
+  "topology_publication_R": 50
+}
